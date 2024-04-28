@@ -6,7 +6,7 @@
 
 - Learning **Neural Networks and Transformers**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Linkedin](https://www.linkedin.com/in/arpit-goel-22a172250/)</h3>
 <p align="left">
 </p>
 
