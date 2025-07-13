@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpit Goel!</h1>
-<h3 align="center">Python developer and AI engineer</h3>
-<h4> I am an undergraduate Computer Science engineering student with a minor in Business Studies scheduled to graduate in 2026. I have learnt about AI and applied statistics thorough out my college years and My research Interests include PINNs.</h4><br>
+<h3 align="center">Data Scientist</h3>
+<h4> I am an undergraduate Computer Science engineering student with a minor in Business Studies scheduled to graduate in 2026. I have learnt about AI and applied statistics thorough out my college years and My research Interests include PINNs and data driven simulations.</h4><br>
 
 - Currently Studying **Computer Science Engineering**
 
-- Learning **Neural Networks and Transformers**
+- Learning **Data Driven Simulations**
 
 
 <h3 align="left">Languages and Tools:</h3>
