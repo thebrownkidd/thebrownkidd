@@ -1,119 +1,71 @@
-<div align="center">
-
 # Arpit Goel
 
-### Machine Learning Engineer • Scientific Machine Learning • Knowledge Systems
+**Machine Learning Engineer | Physics-Informed ML, Forecasting, Anomaly Detection, Retrieval Systems**
 
 Building machine learning systems for science, simulation and reasoning.
 
-[Projects](#featured-projects) • [Research](#research) • [Publications](#publications)
+---
 
-</div>
+## Now
+
+- Sole-author paper on bounded latent degradation dynamics **submitted to Engineering Applications of Artificial Intelligence** and under review
+- Building real-time anomaly detection and document intelligence systems at NTT DATA's AI Center of Excellence
+- Research interests: physics-informed neural networks, time-series forecasting, anomaly detection, knowledge systems
 
 ---
 
-## About
+## Publications
 
-I enjoy building machine learning systems where **physical reasoning**, **scientific computation**, and **knowledge representation** intersect.
+**Learning Bounded Latent Degradation Dynamics for Stable Rollout and Remaining Useful Life Prediction**
+Sole author. Submitted to *Engineering Applications of Artificial Intelligence* (under review).
+Bounded/unbounded latent decoupling for degradation forecasting. 53% improvement over best baseline on Lorenz-63 chaotic system, 5.7% blowup rate vs 100% for all baselines. Evaluated on 5 real datasets: NASA C-MAPSS turbofan, PHM milling, IMS bearings, NASA batteries, Beijing air quality.
+[SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)
 
-Most of my work falls into one of three categories:
+**Neural Simulation of Quantum Interactions in a Confined System**
+ResearchGate preprint. Physics-informed neural network embedding Schrodinger's equation directly into the network architecture. 99.9% agreement with analytical benchmarks.
+[ResearchGate](https://www.researchgate.net/publication/394354557)
 
-- Scientific Machine Learning
-- Knowledge-Centric AI
-- Large-scale ML Systems
-
----
-
-# Featured Projects
-
-### Quantum Simulator
-
-Neural-network-based simulation of quantum particle evolution by embedding Schrödinger's equation directly into a fully connected neural network.
-
-**Topics**
-
-Physics-Informed Neural Networks • Differential Equations • Scientific Computing
+**Logos-SIE: Synthetic Information Ecosystem for Truth Discovery and Retrieval**
+Co-authored technical whitepaper, TwinSimLabs. Large-scale synthetic benchmark modeling the lifecycle of information formation for controlled experimentation in retrieval and trust evaluation.
+[GitHub](https://github.com/TwinSimLabs/Logos-SIE)
 
 ---
 
-### Soft Matter State Detection
+## Featured Projects
 
-Physics-informed learning from molecular dynamics simulations using radial distribution functions as structural descriptors.
-
-**Topics**
-
-PINNs • Molecular Dynamics • Computational Physics
-
----
-
-### Project Logos
-
-Synthetic ecosystem for evaluating retrieval, graph traversal, source attribution, trust ranking and multi-hop reasoning.
-
-**Topics**
-
-Knowledge Graphs • RAG • Information Retrieval
+| Project | What it does |
+|---------|-------------|
+| [**Bounded Latent Degradation Dynamics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558) | Decoupled bounded/unbounded latent spaces for stable long-horizon degradation forecasting and RUL prediction (EAAI submission) |
+| [**TinyEarth**](https://github.com/thebrownkidd/Earth-Simulation-using-light-SSMs) | Controlled benchmark comparing S4D, Transformer, ConvLSTM, and Mamba for Earth-surface forecasting on EarthNet2021 (958 test sequences) |
+| [**Quantum-Simulator**](https://github.com/thebrownkidd/Quantum-Simulator) | PINN for quantum particle simulation via embedded Schrodinger equation |
+| [**Logos-SIE**](https://github.com/TwinSimLabs/Logos-SIE) | Synthetic information ecosystem benchmark for truth discovery and retrieval |
+| [**Softmatter-State-Detection**](https://github.com/thebrownkidd/Softmatter-State-Detection) | Physics-informed ML for soft matter phase classification from molecular dynamics simulations |
+| [**Linux-Kernel-Driver-Evaluation-System**](https://github.com/thebrownkidd/Linux-Kernel-Driver-Evaluation-System) | Kernel module + Python evaluation pipeline (C, systems programming) |
 
 ---
 
-### LOGOS-SIE
+## Tech Stack
 
-Large-scale synthetic benchmark modelling the lifecycle of information formation inside simulated societies.
-
-**Topics**
-
-Synthetic Data • Benchmark Design • Knowledge Systems
-
----
-
-### EyeBrow
-
-Desktop knowledge management application designed for organizing large document collections using metadata-driven indexing and fast retrieval.
-
-**Topics**
-
-PyQt6 • Desktop Applications • Information Management
+| Domain | Tools |
+|--------|-------|
+| ML / DL | PyTorch, TensorFlow, JAX, scikit-learn |
+| GPU / HPC | CUDA, RAPIDS (cuML, CuPy, cuDF) |
+| Scientific | NumPy, SciPy, networkx, LAMMPS |
+| Vision | OpenCV, MediaPipe, YOLO |
+| Languages | Python, Go, C/C++, R |
+| Infrastructure | Docker, Azure, Databricks, Linux |
 
 ---
 
-### CallSense
-A full chat and voice powered system for call full operations of call center automation with Human In the Loop properties (undergraduate Final year thesis Project)
+## Background
+
+- **Associate Engineer**, NTT DATA AI Center of Excellence (promoted from intern)
+- **BE in Computer Science and Business**, Thapar Institute of Engineering and Technology (2022--2026)
 
 ---
 
-# Research
+## Links
 
-Current interests
-
-- Scientific Machine Learning
-- Physics-Informed Neural Networks
-- Time Series Learning
-- Scientific Computing
-- Knowledge Systems
-- Retrieval Architectures
-- Interpretable Machine Learning
-
----
-
-# Publications
-
-📄 Engineering Applications of Artificial Intelligence *(Under Review)*
-
-📄 Neural Simulation of Quantum Interactions in a Confined System *(Pre-Print on researchgate)*
-https://www.researchgate.net/publication/394354557_Neural_Simulation_of_Quantum_Interactions_in_a_Confined_System
-More publications coming soon.
-
----
-
-# Tech
-
-Python · PyTorch · JAX · NumPy · SciPy · OpenCV · Docker · Azure · Linux
-
----
-
-# Find Me
-
-LinkedIn: https://www.linkedin.com/in/thebrownkid/
-
-ORCID: https://orcid.org/0009-0006-5388-1587
-
+- [LinkedIn](https://linkedin.com/in/arpit-goel-22a172250)
+- [ORCID](https://orcid.org/0009-0006-5388-1587)
+- [ResearchGate](https://www.researchgate.net/publication/394354557)
