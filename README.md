@@ -35,7 +35,8 @@ Co-authored technical whitepaper, TwinSimLabs. Large-scale synthetic benchmark m
 
 | Project | What it does |
 |---------|-------------|
-| [**Bounded Latent Degradation Dynamics**](https://github.com/thebrownkidd/Bounded-and-unbounded-latent-decoupling-for-forecast-and-reconstruction-quality) | Decoupled bounded/unbounded latent spaces for stable long-horizon degradation forecasting and RUL prediction ([EAAI submission, SSRN 7180558](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)) |
+| [**Bounded Latent Degradation Dynamics**](https://github.com/thebrownkidd/Jet-Engine-Simulation-Project) | Degradation modeling and RUL prediction across 5 real-world datasets ([EAAI submission, SSRN 7180558](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)) |
+| [**Latent Decoupling Framework**](https://github.com/thebrownkidd/Bounded-and-unbounded-latent-decoupling-for-forecast-and-reconstruction-quality) | Core bounded/unbounded latent decoupling method with Lorenz-63 chaotic system benchmark |
 | [**TinyEarth**](https://github.com/thebrownkidd/Earth-Simulation-using-light-SSMs) | Controlled benchmark comparing S4D, Transformer, ConvLSTM, and Mamba for Earth-surface forecasting on EarthNet2021 (958 test sequences) |
 | [**Quantum-Simulator**](https://github.com/thebrownkidd/Quantum-Simulator) | PINN for quantum particle simulation via embedded Schrodinger equation |
 | [**Logos-SIE**](https://github.com/TwinSimLabs/Logos-SIE) | Synthetic information ecosystem benchmark for truth discovery and retrieval |
