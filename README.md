@@ -8,7 +8,7 @@ Building machine learning systems for science, simulation and reasoning.
 
 ## Now
 
-- Sole-author paper on bounded latent degradation dynamics **submitted to Engineering Applications of Artificial Intelligence** and under review
+- Sole-author paper on bounded latent degradation dynamics, posted as an **SSRN preprint**
 - Building real-time anomaly detection and document intelligence systems at NTT DATA's AI Center of Excellence
 - Research interests: physics-informed neural networks, time-series forecasting, anomaly detection, knowledge systems
 
@@ -17,7 +17,7 @@ Building machine learning systems for science, simulation and reasoning.
 ## Publications
 
 **Learning Bounded Latent Degradation Dynamics for Stable Rollout and Remaining Useful Life Prediction**
-Sole author. Submitted to *Engineering Applications of Artificial Intelligence* (under review).
+Sole author. SSRN preprint (not peer-reviewed).
 Bounded/unbounded latent decoupling for degradation forecasting. 53% improvement over best baseline on Lorenz-63 chaotic system, 5.7% blowup rate vs 100% for all baselines. Evaluated on 5 real datasets: NASA C-MAPSS turbofan, PHM milling, IMS bearings, NASA batteries, Beijing air quality.
 [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)
 
@@ -35,7 +35,7 @@ Co-authored technical whitepaper, TwinSimLabs. Large-scale synthetic benchmark m
 
 | Project | What it does |
 |---------|-------------|
-| [**Bounded Latent Degradation Dynamics**](https://github.com/thebrownkidd/Jet-Engine-Simulation-Project) | Degradation modeling and RUL prediction across 5 real-world datasets ([EAAI submission, SSRN 7180558](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)) |
+| [**Bounded Latent Degradation Dynamics**](https://github.com/thebrownkidd/Jet-Engine-Simulation-Project) | Degradation modeling and RUL prediction across 5 real-world datasets ([SSRN preprint 7180558](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7180558)) |
 | [**Latent Decoupling Framework**](https://github.com/thebrownkidd/Bounded-and-unbounded-latent-decoupling-for-forecast-and-reconstruction-quality) | Core bounded/unbounded latent decoupling method with Lorenz-63 chaotic system benchmark |
 | [**TinyEarth**](https://github.com/thebrownkidd/Earth-Simulation-using-light-SSMs) | Controlled benchmark comparing S4D, Transformer, ConvLSTM, and Mamba for Earth-surface forecasting on EarthNet2021 (958 test sequences) |
 | [**Quantum-Simulator**](https://github.com/thebrownkidd/Quantum-Simulator) | PINN for quantum particle simulation via embedded Schrodinger equation |
